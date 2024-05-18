@@ -2,7 +2,7 @@
 Hello! With a background in software engineering, embedded programming, hardware design, and robotics, I'm on the lookout for new challenges.
 If you're in search of someone with my skills, let's team up and create something amazing! https://x-tech.online/
 
-# ROS  
+
 
 [![Build](https://github.com/ClemensElflein/open_mower_ros/actions/workflows/build-image.yaml/badge.svg)](https://github.com/ClemensElflein/open_mower_ros/actions/workflows/build-image.yaml)
 
@@ -16,7 +16,7 @@ Currently, the following repositories are included:
 - **teb_local_planner**: The local planner which allows the robot to avoid obstacles and follow the global path using kinematic constraints.
 - **xesc_ros**: The ROS interface for the xESC motor controllers.
 
-## Getting started
+## Getting stopped
 
 ### Running on your machine
 
